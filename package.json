@@ -1,0 +1,28 @@
+{
+  "name": "chatappnative",
+  "version": "0.0.0",
+  "description": "No description",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^34.0.0",
+    "react": "16.8.3",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-34.0.1.tar.gz",
+    "@livechat/ui-kit": "0.4.0-5",
+    "firebase": "6.3.3",
+    "firestore": "1.1.6",
+    "moment": "2.24.0",
+    "navigation": "*",
+    "navigation-react": "^4.1.1",
+    "prop-types": "15.6.2",
+    "react-dom": "^16.8.6",
+    "react-native-elements": "1.1.0",
+    "react-native-gifted-chat": "0.7.0",
+    "react-native-paper": "^2.16.0",
+    "react-native-video": "*",
+    "react-native-web": "^0.11.4",
+    "react-navigation": "^3.11.1",
+    "tcomb-form-native": "0.6.20"
+  }
+}
