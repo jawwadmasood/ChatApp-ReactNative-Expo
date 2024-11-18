@@ -10,7 +10,7 @@
     "react": "16.8.3",
     "react-native": "https://github.com/expo/react-native/archive/sdk-34.0.1.tar.gz",
     "@livechat/ui-kit": "0.4.0-5",
-    "firebase": "6.3.3",
+    "firebase": "10.9.0",
     "firestore": "1.1.6",
     "moment": "2.24.0",
     "navigation": "*",
